@@ -31,7 +31,14 @@ const Header = () => {
     <div className={`header${sticky ? " sticky" : ""}`}>
       <Navbar light expand="md">
         <Container>
-          <NavbarBrand href="/">LOGO</NavbarBrand>
+          <NavbarBrand href="/">
+            <img
+              className="d-flex"
+              style={{ width: "40px" }}
+              src="https://i.pinimg.com/originals/9b/e0/26/9be02694cd0c32e4f6158357359c835d.png"
+              alt=""
+            />
+          </NavbarBrand>
           <NavbarToggler onClick={toggle} />
           <Collapse isOpen={isOpen} navbar>
             <Nav className="m-auto" navbar>
