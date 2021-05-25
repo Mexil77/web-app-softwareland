@@ -29,8 +29,8 @@ const Footer = () => {
         <Row>
           <Col lg={4}>
             <div className="mb-4">
-              <p className="text-muted mt-4 mb-2">email@email.com</p>
-              <h6 className="text-muted font-weight-normal">+99 1234-5678-9</h6>
+              <p className="text-muted mt-4 mb-2">info@dragonscare.com</p>
+              <h6 className="text-muted font-weight-normal">+99 6667-5678-9</h6>
             </div>
           </Col>
           <Col lg={8}>
@@ -51,9 +51,9 @@ const Footer = () => {
               <Col md={4}>
                 <h6 className="text-dark mb-3">Our Address</h6>
                 <p className="text-muted f-14">
-                  1234 Lorem Ipsum dummy text, 12345
+                  1234 Middle earth Mordor castle, 12345
                 </p>
-                <h6 className="text-muted pb-2">Email: email@email.com</h6>
+                <h6 className="text-muted pb-2">Email: info@dragonscare.com</h6>
                 <ul className="list-unstyled footer-social-list mt-4">
                   <li className="list-inline-item">
                     <a href="#">
@@ -78,7 +78,9 @@ const Footer = () => {
         <Row className="mt-5">
           <Col md={12}>
             <div className="text-center text-muted">
-              <p className="mb-0 f-15">2020 © Name. Design by Name</p>
+              <p className="mb-0 f-15">
+                2020 © DragonCare. Design by Emmanuel Garcia Torres
+              </p>
             </div>
           </Col>
         </Row>

@@ -11,8 +11,8 @@ const About = () => {
                 About <span className="text-warning">Us</span>
               </h3>
               <p className="text-muted">
-                Lorem Ipsum has been the industry's standard dummy text ever
-                since the 1500s, when an unknown printer took a galley of type
+                We are a company focused on the study of these majestic beings
+                and we also seek their safe protection and care.
               </p>
             </div>
           </Col>
@@ -20,7 +20,7 @@ const About = () => {
         <Row>
           <Col md={4}>
             <h2 className="font-weight-light line-height-1_6 text-dark mb-4">
-              Lorem Ipsum has been the industry's standard dummy text
+              You are in the best hands
             </h2>
           </Col>
           <Col md={{ size: 7, offset: 1 }}>
@@ -30,8 +30,9 @@ const About = () => {
                   Our Mission
                 </h6>
                 <p className="text-muted font-weight-light">
-                  Lorem Ipsum has been the industry's standard dummy text ever
-                  since the 1500s, when an unknown printer took a galley of type
+                  Provide the largest and most reliable information about these
+                  beings in addition to keeping our customers satisfied with the
+                  various products we have.
                 </p>
               </Col>
               <Col md={6}>
@@ -39,8 +40,8 @@ const About = () => {
                   Our Vision
                 </h6>
                 <p className="text-muted font-weight-light">
-                  Lorem Ipsum has been the industry's standard dummy text ever
-                  since the 1500s, when an unknown printer took a galley of type
+                  Find enough knowledge to be able to understand all the species
+                  of dragons that exist.
                 </p>
               </Col>
             </Row>

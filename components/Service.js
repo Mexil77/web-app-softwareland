@@ -3,28 +3,16 @@ import { Container, Row, Col } from "reactstrap";
 const Service = () => {
   const services = [
     {
-      title: "Lorem Ipsum",
-      desc: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      title: "Beasts of burden",
+      desc: "Thanks to their ability to fly, they can help us carry big things",
     },
     {
-      title: "Lorem Ipsum",
-      desc: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      title: "Powerfull Parners",
+      desc: "There greate abilities are so usefoll for large trabels and dificult works",
     },
     {
-      title: "Lorem Ipsum",
-      desc: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-    },
-    {
-      title: "Lorem Ipsum",
-      desc: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-    },
-    {
-      title: "Lorem Ipsum",
-      desc: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-    },
-    {
-      title: "Lorem Ipsum",
-      desc: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      title: "Heatlh",
+      desc: "It is known that many of the parts of dragons as well as their blood mainly are of great benefit in many areas of medicine.",
     },
   ];
 
@@ -38,9 +26,9 @@ const Service = () => {
                 <span className="text-warning">Services</span>
               </h3>
               <p className="text-muted">
-                Lorem Ipsum has been the industry's standard dummy text ever
-                since the 1500s, when an unknown printer took a galley of type
-                and scrambled it to make a type specimen book
+                Although not all dragons can be tamed and also that term does
+                not apply to them, if you can be companions of humans, which
+                allows us to use their great abilities such as:
               </p>
             </div>
           </Col>
